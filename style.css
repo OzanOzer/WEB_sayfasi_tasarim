@@ -1,0 +1,166 @@
+body{
+	width:100%;
+	background-color:#aaffd4;
+}
+.container{
+	background-color:#aaffd4;
+	width:100%;
+	height:100%;
+	border-radius:10px;
+	float:left
+}
+#bir{
+	background-color:#00bf5f;
+	width:450px;
+	height:120px;
+	float:left;
+	margin-left:15px;
+	border-radius:10px;
+}
+#logobir{
+	background-color:#8b4513;
+	border-radius:10px;
+	width:300px;
+	height:90px;
+	margin:auto;
+}
+#logoiki{
+	background-color:#047a18;
+	border-radius:10px;
+	width:290px;
+	height:75px;
+	margin:auto;
+	margin-top:5px;
+}
+h1{
+	margin-left:60px;
+	color:white;
+}
+#header{
+	float:right;
+	margin-right:50px;
+	background-color:#047a18;
+	width:810px;
+	height:120px;
+	border-radius:10px;
+}
+.tik{
+	float:left;
+	margin-right:270px;
+	margin-top:10px;
+	margin-left:120px;
+}
+#sosyal{
+	float:right;
+	margin-right:100px;
+	background-color:red;
+	width:140px;
+	height:30px;
+	margin-top:20px;
+	border-radius:10px;
+}
+#sosyal p{
+	text-align:center;
+	margin-bottom:10px;
+	margin-top:8px;
+}
+#sos{
+	float:right;
+	margin-right:100px;
+	background-color:white;
+	border-radius:10px;
+	width:140px;
+	height:35px;
+}
+#sos img{
+	width:30px;
+	height:30px;
+}
+#menu{
+	margin-top:120px;
+	background-color:green;
+	width:1340px;
+	height:40px;
+}
+#list1{
+	list-style:none;
+	color:#fff;
+}
+#menu #list1 .liste2{
+	float:left;
+	padding:10px;
+	margin-left:80px;
+}
+#menu #list1 .liste3{
+	float:left;
+	padding:10px;
+	margin-left:120px;
+}
+#menu #list1 .liste2 a:hover{
+	color:red
+}
+#menu #list1 .liste3 a:hover{
+	color:red
+}
+#menu #list1 .liste2 a:visited{
+	color:blue
+}
+#menu #list1 .liste3 a:visited{
+	color:blue
+}
+#manzara{
+	background-color:#00bf5f;
+	width:450px;
+	height:600px;
+	margin-left:15px;
+	margin-bottom:10px;
+	margin-top:10px;
+	border-radius:10px;
+	float:left;
+}
+#manzara img{
+	width:350px;
+	height:480px;
+	margin-top:20px;
+	margin-left:40px;
+}
+.text1{
+	background-color:white;
+	margin:auto;
+	width:350px;
+	height:30px;
+}
+#manzara .text p{
+	margin-left:25px;
+	margin-top:20px;
+}
+.view{
+	float:left;
+}
+.view img{
+	margin-top:20px;
+	margin-left:20px;
+	width:350px;
+	height:250px;
+}
+.view p{
+	margin-left:25px;
+	margin-top:10px;
+}
+.view2{
+	float:right;
+}
+.view2 img{
+	width:350px;
+	height:250px;
+	float:right;
+	margin-top:20px;
+	margin-right:50px;
+}
+.text2{
+	background-color:white;
+	margin:auto;
+	width:350px;
+	height:30px;
+	margin-top:285px;
+}
